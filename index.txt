@@ -1,1 +1,5 @@
 hello my name is Prashant
+div d 
+prn 237
+git config --global user.email "prashant95522@gmail.com"
+  git config --global user.name "prashant"
